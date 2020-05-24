@@ -3,7 +3,9 @@ SDK for https://github.com/h2non/imaginary
 
 Basic usage:
 ------------
-####Set service uri
+
+Set service uri
+
 ```php
 $client = new ImaginaryClient();
 $client->setServiceUri('http://imaginary:9005');
