@@ -34,7 +34,7 @@ $imageInfo = Imaginary::new()
     ->setUploadFilePath('/home/user/tmp/test.jpg')
     ->info();
 ```
-#####Example response
+Example response
 ```php
 Array
 (
