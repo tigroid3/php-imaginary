@@ -1,0 +1,29 @@
+{
+  "name": "php-amqplib/php-amqplib",
+  "type": "library",
+  "description": "SDK for https://github.com/h2non/imaginary",
+  "keywords": [
+    "imaginary",
+    "sdk",
+    "h2non",
+    "php"
+  ],
+  "homepage": "https://github.com/tigroid3/php-imaginary",
+  "authors": [
+    {
+      "name": "Oleg Kretinin",
+      "role": "Maintainer",
+      "email": "sarge_tigra@mail.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "ext-json": "*",
+    "guzzlehttp/guzzle": "^6.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "tigroid3\\phpimaginary\\": "src"
+    }
+  }
+}
