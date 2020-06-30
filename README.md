@@ -1,6 +1,18 @@
 # php-imaginary
 SDK for https://github.com/h2non/imaginary
 
+Either run
+
+```
+$ composer require tigroid3/php-imaginary
+```
+or add
+
+```
+"tigroid3/php-imaginary": "*"
+```
+to the ```require``` section of your `composer.json` file.
+
 Basic usage:
 ------------
 
