@@ -1,6 +1,7 @@
 {
   "name": "tigroid3/php-imaginary",
   "type": "library",
+  "license": "BSD-3-Clause",
   "description": "SDK for https://github.com/h2non/imaginary",
   "keywords": [
     "imaginary",
